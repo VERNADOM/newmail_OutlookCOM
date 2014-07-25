@@ -1,0 +1,9 @@
+c:\users\dominic\documents\visual studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\bin\Debug\newmail_OutlookCOM.exe.config
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\bin\Debug\newmail_OutlookCOM.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\bin\Debug\newmail_OutlookCOM.pdb
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.MailSettings.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.csproj.GenerateResource.Cache
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.exe
+C:\Users\Dominic\Documents\Visual Studio 2013\Projects\newmail_OutlookCOM\newmail_OutlookCOM\obj\Debug\newmail_OutlookCOM.pdb
